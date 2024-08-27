@@ -1,4 +1,4 @@
-{
+{"homepage": "https://Nitashtani.github.io/wage-sheet-app",
   "name": "wage-sheet-app",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,8 @@
     "xlsx": "^0.18.5"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build" ,
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,6 +40,7 @@
   },
   "devDependencies": {
     "electron": "^31.3.1",
-    "electron-builder": "^24.13.3"
+    "electron-builder": "^24.13.3",
+    "gh-pages": "^6.1.1"
   }
 }
