@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wage-sheet-app/static/css/main.2264f7df.css",
-    "main.js": "/wage-sheet-app/static/js/main.20e62582.js",
+    "main.js": "/wage-sheet-app/static/js/main.9a7ea3ff.js",
     "static/js/453.75be700a.chunk.js": "/wage-sheet-app/static/js/453.75be700a.chunk.js",
     "index.html": "/wage-sheet-app/index.html",
     "main.2264f7df.css.map": "/wage-sheet-app/static/css/main.2264f7df.css.map",
-    "main.20e62582.js.map": "/wage-sheet-app/static/js/main.20e62582.js.map",
+    "main.9a7ea3ff.js.map": "/wage-sheet-app/static/js/main.9a7ea3ff.js.map",
     "453.75be700a.chunk.js.map": "/wage-sheet-app/static/js/453.75be700a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2264f7df.css",
-    "static/js/main.20e62582.js"
+    "static/js/main.9a7ea3ff.js"
   ]
 }
