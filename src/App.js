@@ -24,7 +24,7 @@ function App() {
     let epf = 0;
     if (gross <= 35000 || name === "HARKANWAL") {
       epf = payable * epfRate;
-      epf = Math.max(Math.round(epf), 1800);
+      epf = Math.max(Math.round(epf));
     }
 
     // Calculate ESI (0.75% of Payable, rounded to integer, but 0 if Gross Pay > 35000)
